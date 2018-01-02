@@ -1,0 +1,23 @@
+.navbar-custom{
+  background-color: white;
+  box-shadow: 2px 2px 2px lightGray;
+  color: black;
+  height: 95px;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#kcchead{
+  padding: 0px;
+  margin-top: 0px;
+  color: #1054B5;
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+#LMS{
+  font-size: 28px;
+  font-weight: normal;
+}
